@@ -5,7 +5,7 @@
 ## 🌐 Live Web Application
 **[👉 Click here to try the Startup Success Predictor 👈](https://startup-success-predictor-3dappaj7fgdm3z9zbtm7ien.streamlit.app/)**
 
-*(Note: You can add a screenshot of the web app here later by uploading an image and linking it)*
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-27 032144" src="https://github.com/user-attachments/assets/ff9ab5ce-dd46-4c08-b07c-527e47c580f4" />
 
 ## 📖 Project Overview
 This is an End-to-End Machine Learning project aimed at predicting the operational status of a startup (Operating, Acquired, or Closed) based on historical funding data from Crunchbase. 
